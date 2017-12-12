@@ -1,6 +1,6 @@
 // default text
-document.getElementById('heading').innerHTML = localStorage['title'] || 'This be the title...';
-document.getElementById('content').innerHTML = localStorage['text'] || '... and this be the text, you space monkey you.';
+document.getElementById('heading').innerHTML = localStorage['title'] || 'save me save me';
+document.getElementById('content').innerHTML = localStorage['text'] || 'I\'m being held against my will and forced to learn javascript';
 
 // autosave
 setInterval(function(){

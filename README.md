@@ -1,6 +1,6 @@
 # Browser Editor  
 
-A simple [text editor](alana-shee.github.io/browser-editor) that works in a browser. 
+A simple [text editor](https://alana-shee.github.io/browser-editor/) that works in a browser. 
 
 (No, by the way, I'm not actually being held against my will. Thank you for caring :)
 

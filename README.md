@@ -6,3 +6,6 @@ This is a practice project I made following a tutorial from [Enlight](https://tr
 
 ## License  
 [MIT License](LICENSE.md)
+
+## Bored?
+Well _sorry_, I have to start somewhere. Here's a picture of a [shrugging eggplant](eggplant.jpg) for your trouble.
